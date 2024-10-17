@@ -1,6 +1,6 @@
 # Homeofgames
 
 Team members:
-Anania G/tsion
-Samuel Solomon
-Zerufael Aemero
+Anania G/tsion: Backend Developer
+Samuel Solomon: Frontend Developer
+Zerufael Aemero: Backend Developer
